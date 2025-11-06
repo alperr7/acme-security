@@ -28,7 +28,7 @@ Your mission: Analyze the incident, identify vulnerabilities, propose architectu
 - Written report (PDF, max 5 pages)
 - Video presentation (10-15 minutes)
 
-**Deadline:** Open (evaluated as received)
+**Deadline:** Monday, 09:00 (Istanbul time)
 
 ## 🚀 Getting Started
 
@@ -78,7 +78,7 @@ Follow the [submission guidelines](./submissions/README.md) to submit your work.
 
 ## 🎯 Scoring
 
-This lab uses a comprehensive scoring system with transparent evaluation criteria. All candidates receive detailed feedback on their submissions, highlighting strengths and areas for improvement.
+This lab uses a comprehensive scoring system with transparent evaluation criteria.
 
 **Scoring approach:**
 - Evidence-based assessment
@@ -106,22 +106,19 @@ A: Tools are fine for research, but the analysis must be your own. Over-reliance
 A: Absolutely! Research MITRE ATT&CK, OWASP, and security frameworks. This mirrors real-world work.
 
 **Q: What if I can't finish in time?**  
-A: Take the time you need. We value quality over speed. Work at your own pace.
+A: Submissions must be received by **Monday at 09:00 (Istanbul time)**. Plan accordingly.
 
 **Q: Is there a single "correct" answer?**  
 A: No. We evaluate your approach, reasoning, and professionalism. Multiple solutions are valid.
-
-**Q: Can I ask questions during the lab?**  
-A: Yes! Open an [issue](../../issues) with the `question` label.
 
 **Q: What tools should I use?**  
 A: Use whatever you're comfortable with. Excel, Python, grep, text editors - all are fine. We evaluate your analysis, not your tools.
 
 **Q: How long does the evaluation take?**  
-A: We review submissions within 1 week. You'll receive feedback regardless of the outcome.
+A: Submissions are due **Monday at 09:00 (Istanbul time)**. Results will be announced shortly after.
 
 **Q: Can I update my submission after submitting?**  
-A: Yes, if you submit via Pull Request, you can push updates before we review it. We evaluate the latest version.
+A: Yes, if you submit via Pull Request, you can push updates before the deadline. We evaluate the latest version.
 
 **Q: What if I get stuck?**  
 A: That's normal! Document your thought process and explain what you tried. We value problem-solving approach over perfect answers.
@@ -129,11 +126,8 @@ A: That's normal! Document your thought process and explain what you tried. We v
 **Q: Is this only for experienced analysts?**  
 A: No! This lab is designed for junior to mid-level candidates. If you're learning security, this is a great opportunity to practice.
 
-**Q: Will I get feedback on my submission?**  
-A: Yes, all candidates receive feedback highlighting strengths and areas for improvement, even if not selected.
-
 **Q: Can I include this in my portfolio?**  
-A: Absolutely! If you submit publicly, it's already part of your GitHub portfolio. Even private submissions can be referenced (without sharing materials).
+A: Absolutely! If you submit publicly, it's already part of your GitHub portfolio.
 
 ---
 
